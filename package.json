@@ -1,0 +1,28 @@
+{
+  "name": "equation",
+  "version": "1.0.0",
+  "description": "Equation.js is a node.js library that can solve any kind of equation including functional equations and even differential equations!",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OguzhanUmutlu/equation.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OguzhanUmutlu/equation.js"
+  },
+  "homepage": "https://github.com/OguzhanUmutlu/equation.js#readme",
+  "keywords": [
+    "equation",
+    "js",
+    "maths",
+    "polynomials"
+  ],
+  "author": "OguzhanUmutlu",
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  }
+}
