@@ -1,5 +1,5 @@
 {
-  "name": "equation",
+  "name": "jsequation",
   "version": "1.0.0",
   "description": "Equation.js is a node.js library that can solve any kind of equation including functional equations and even differential equations!",
   "main": "src/index.js",
